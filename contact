@@ -1,5 +1,4 @@
-
-
+<div class="text-center contact">
         <div class="text-center bonly-logo-container">
             <span class="bonly-logo">B</span>
         </div>
@@ -8,4 +7,4 @@
         <p>bonly@gmail.com</p>
         <p>Bonly</p>
         <p>Siia tuleb text beta kohta</p>
-
+</div>
