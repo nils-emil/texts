@@ -1,1 +1,6 @@
-<div _ngcontent-ggi-c134="" class="text-center center-small-text"><p _ngcontent-ggi-c134="" class="text-bold">Thank you for participating!</p><p _ngcontent-ggi-c134="" class="text-bold">Come back next week to get more points and increase your chances of winning!</p><p _ngcontent-ggi-c134="">Prize draws will take place on Monday 28.12.2020</p></div>
+    <div class="text-center center-small-text">
+            <p class="text-bold">Good job!</p>
+            <p class="text-bold">Check out this month prize draws</p>
+            <p class="text-bold">Remember not to waste all of your points so early.</p>
+            <p>See you next week!</p>
+     </div>
