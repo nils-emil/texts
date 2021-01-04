@@ -1,6 +1,7 @@
     <div class="text-center center-small-text  pl-20 pr-20">
-            <p class="text-bold">Good job!</p>
-            <p class="text-bold">Check out this month prize draws</p>
-            <p class="text-bold">Remember not to waste all of your points too early.</p>
-            <p>See you next week!</p>
+            <p class="text-bold">Tänud vastamast!</p>
+            <p class="text-bold">Järgmiselt lehelt võimalik vaadata, milliseid auhindu testperioodil loositakse.</p>
+            <p class="text-bold">Soovitame sel nädalal punkte mitte kulutada, et järgmisel nädalal oleks suuremad
+valikuvõimalused.</p>
+            <p>Järgmise nädalani!</p>
      </div>
