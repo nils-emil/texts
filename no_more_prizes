@@ -1,7 +1,9 @@
     <div class="text-center center-small-text  pl-20 pr-20">
             <p class="text-bold">Tänud vastamast!</p>
+            
             <p class="text-bold">Järgmiselt lehelt võimalik vaadata, milliseid auhindu testperioodil loositakse.</p>
-            <p class="text-bold">Soovitame sel nädalal punkte mitte kulutada, et järgmisel nädalal oleks suuremad
-valikuvõimalused.</p>
+            
+            <p class="text-bold">Soovitame punktid hoida järgmiseks nädalaks, kuna siis on valikuvõimalus suurem</p>
+
             <p>Järgmise nädalani!</p>
      </div>
